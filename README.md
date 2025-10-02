@@ -1,3 +1,5 @@
 # personal
 
-blah
+Sandbox for playing with:
+- Gemini api
+- Vector databases
